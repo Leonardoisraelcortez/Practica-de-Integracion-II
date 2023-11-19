@@ -1,0 +1,12 @@
+{
+  "name": "practica-de-integracion-ii",
+  "version": "1.0.0",
+  "description": "Practica de integración - coderhouse backend",
+  "type": "module",
+  "main": "App.JS",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Leo",
+  "license": "ISC"
+}
